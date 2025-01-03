@@ -3,7 +3,7 @@ include('conn.php');
 ?>
 
 
-<form style="margin: auto; border: solid black; width: 400px;">
+<form style="width: 400px; margin: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); box-shadow: 0px 0px 20px; border-radius: 20px; padding: 20px;">
     <div class="form-group">
         <label for="exampleInputEmail1">Email address</label>
         <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
