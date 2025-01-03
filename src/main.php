@@ -5,4 +5,4 @@ include('auth/login.php');
 
 ?>
 
-<div>Hello</div>
+<div>Hi!</div>
